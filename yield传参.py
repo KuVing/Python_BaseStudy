@@ -17,7 +17,7 @@ def main():
     g=gen()
     ret1=g.__next__()
     print("第一个yield是：",ret1)
-    ret2=g.send("鑫宝可可爱爱")#给第一个yield发东西发完自动执行next
+    ret2=g.send("hahahah")#给第一个yield发东西发完自动执行next
     
     print("第二个yield是：",ret2)
     
