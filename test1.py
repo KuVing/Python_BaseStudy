@@ -6,12 +6,12 @@ Created on Wed Feb 17 16:27:41 2021
 """
 __all__=['fun3']
 def fun1():
-    print("谢翔宇爱东鑫")
+    print("abcdefg")
 
 def fun2():
-    print("东鑫宝贝可可爱爱")
+    print("hijkln")
 def fun3():
-    print("东鑫小姐姐最好了")
+    print("opqrst")
 
 def main():
     pass
