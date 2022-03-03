@@ -6,7 +6,7 @@ Created on Mon Jan 25 10:01:31 2021
 """
 
 """def fun1():
-    print("东鑫宝贝超级可爱")
+    print("abcdefg")
 
 def main():
     f=fun1
