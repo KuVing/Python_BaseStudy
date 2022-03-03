@@ -37,7 +37,7 @@ def main():
 #    f.close()
     
 #   f=open("c:\\Users\\15003\\A.txt","a")  #如果把a改成w则会覆盖掉原有的东西
-#   f.write("\n东鑫宝贝最可爱了")
+#   f.write("\n我的宝贝最可爱了")
 #   f.close()
  
     with open("c:\\Users\\15003\\A.txt","r")as f1, open("c:\\Users\\15003\\B.txt","a")as f2: #免关闭文件操作
