@@ -16,7 +16,7 @@ def main():
     
     s1="Index" 
     try:
-      print("东鑫可爱")
+      print("你真棒")
       raise ValueError("必然的啦！")
     except ValueError as e:
         print("ValueError",e)
