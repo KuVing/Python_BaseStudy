@@ -15,13 +15,13 @@ def main():
     f()"""
 
 def fun1():
-    print("谢翔宇喜欢东鑫宝贝")
+    print("abcdefg")
 
 def fun2():
-    print("东鑫宝贝喜欢谢翔宇")
+    print("hijklmn")
 
 def fun3():
-    print("谢翔宇和东鑫宝贝喜欢彼此")
+    print("opqrst")
     
 def main():
     li=[fun1,fun2,fun3]
