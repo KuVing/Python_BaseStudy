@@ -9,8 +9,8 @@ def main():
    
    # print(os.listdir("c://"))
     
-   #os.mkdir("c://谢翔宇")
-   #os.rmdir("c://谢翔宇")
+   #os.mkdir("c://好家伙")
+   #os.rmdir("c://好家伙")
     
    #print(os.system("mkdir 123"))
    #print(os.system("rmdir 123"))
