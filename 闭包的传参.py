@@ -23,7 +23,7 @@ def timer(fun):
     return inner
 def fun1():
     time.sleep(5)
-    print("我爱东鑫")
+    print("我爱你啊")
 
 def main():
     a=timer(fun1)
