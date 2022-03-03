@@ -44,7 +44,7 @@ def wrapper2(func):
 @wrapper2 
 
 def fun1():
-    print("东鑫宝贝可可爱爱")
+    print("abcdefg")
     
 def main():
     fun1()
